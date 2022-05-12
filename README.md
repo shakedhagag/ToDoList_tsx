@@ -3,7 +3,7 @@
 This project was made through a type-script course. I wanted to learn the basics of typescript and it seemed like a good fit.
 This is a simple, yet cool to do list. 
 
-![image](https://user-images.githubusercontent.com/76105109/168031888-2aaec710-26a7-4364-8659-6f421fd01036.png)
+![image](https://user-images.githubusercontent.com/76105109/168032729-51df8535-7971-4b15-9b2a-00f5e10caf1e.png)
 
 🍀I have used react-beatiful-dnd which made the drag&drop features so easy and applicable.
 
